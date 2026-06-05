@@ -6,11 +6,6 @@ permalink: /
 
 <big>Ultra-lightweight [Blades](https://github.com/anyblades/blades) starter compatible with _BOTH_ Jekyll˂˂and˃˃11ty (Build Awesome) at the same time.</big>
 
-[![](https://img.shields.io/github/deployments/anyblades/bladeswitch/github-pages?logo=jekyll&label=Demo&labelColor=darkslategray&style=for-the-badge)](https://anyblades.github.io/bladeswitch/)
-[![](https://img.shields.io/netlify/ec716489-5d5d-43cb-9fa1-892f8479436e?logo=eleventy&label=Demo&labelColor=darkslategray&style=for-the-badge)](https://bladeswitch.netlify.app/)
-[![](https://img.shields.io/badge/Code-gainsboro?logo=github&logoColor=black&style=for-the-badge)](https://github.com/anyblades/bladeswitch)
-[![](https://img.shields.io/github/stars/anyblades/bladeswitch?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anyblades/bladeswitch)
-
 #### Killer features
 
 Easy to start, easy to switch:
