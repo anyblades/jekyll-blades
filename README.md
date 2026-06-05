@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-### 🥷 *Bl*adeswitch <sup class="sup">![](https://img.shields.io/github/v/release/anyblades/bladeswitch?label=&color=black)</sup>
+### 🥷 Jekyll *Bl*ades <!--sup class="sup">![](https://img.shields.io/github/v/release/anyblades/bladeswitch?label=&color=black)</sup-->
 
 <big>Ultra-lightweight [Blades](https://github.com/anyblades/blades) starter compatible with _BOTH_ Jekyll˂˂and˃˃11ty (Build Awesome) at the same time.</big>
 
